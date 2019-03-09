@@ -1,1 +1,2 @@
 D:\TabachnyiProjects\GitProject\GitProject\bin\Debug\GitProject.exe.config
+D:\GIT git\GitTest\bin\Debug\GitProject.exe.config
